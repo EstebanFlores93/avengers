@@ -2,4 +2,3 @@
 
 * RedSkull
 * Doom
-* Capitán America
